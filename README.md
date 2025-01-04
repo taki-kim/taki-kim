@@ -1,8 +1,8 @@
 # 👋, I'm TeukHee!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fturkey-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-`2017-03 ~ 2023.09` 전북대학교 사회학 전공 / 컴퓨터공학 부전공  
-`2023-07 ~ 2024.01` 야놀자 FE 부트캠프    
+`2017-03 - 2023.09` 전북대학교 사회학 전공 / 컴퓨터공학 부전공  
+`2023-07 - 2024.01` 야놀자 FE 부트캠프    
 
 [My blog](https://taki-town.vercel.app/)
 
