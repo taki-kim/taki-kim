@@ -25,7 +25,7 @@
 #### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Recent Posts
+## Recent Posts
 - [NextJs 렌더링 정리](https://taki-town.vercel.app/post/[NextJS]%20NextJS%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81)
 - [[Taki-town] 블로그 댓글/대댓글 구현기](https://taki-town.vercel.app/post/[Taki%20Town]%20%EB%8C%93%EA%B8%80&%EB%8C%80%EB%8C%93%EA%B8%80%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [[Taki-town] 블로그 웹성능 개선기](https://taki-town.vercel.app/post/[Taki-town]%20%EC%9B%B9%20%EC%84%B1%EB%8A%A5%20%EA%B0%9C%EC%84%A0%EA%B8%B0)
