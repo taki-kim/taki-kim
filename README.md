@@ -3,7 +3,7 @@
 `2017-03 - 2023.09` 전북대학교 사회학 전공 / 컴퓨터공학 부전공  
 `2023-07 - 2024.01` 야놀자 FE 부트캠프    
 
-[This is my blog](https://taki-town.vercel.app/)
+[This is my blog](https://takitown.com)
 
 ## Github Stats
 ![turkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=turkey-kim&theme=onedark&hide_border=true)  
