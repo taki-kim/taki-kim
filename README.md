@@ -6,11 +6,11 @@
 [This is my blog](https://takitown.com)
 
 ## Github Stats
-![turkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=turkey-kim&theme=onedark&hide_border=true)  
+![turkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=taki-kim&theme=onedark&hide_border=true)  
 
 ## Skills
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turkey-kim&layout=compact&theme=onedark&hide_border=true)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taki-kim&layout=compact&theme=onedark&hide_border=true)
 
 #### Frameworks
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
